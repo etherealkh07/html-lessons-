@@ -1,0 +1,18 @@
+.body{
+  font-family: Monsterrat;
+}
+.module{
+  font-size: 50px;  
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 0;
+}
+.order{
+  font-size: 25px;
+  text-align: center;
+  margin-top: 15px;
+  
+}
+.underline{
+  text-decoration: underline;
+}

@@ -1,0 +1,32 @@
+body{
+  font-family: Arial;
+}
+p {
+  text-align: center;
+}
+.new{
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+.tech{
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
+.content{
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.buy{
+  color: white;
+  background-color: rgb(0, 103, 246);
+  border: none;
+  padding:7px 16px;
+  border-radius: 15px;
+  font-weight: bold;
+}
