@@ -1,0 +1,14 @@
+.name-tag{
+  border: 2px solid lightgray;
+  padding: 5px;
+  font-size: 15px;
+  color: gray;
+  display: block;
+  margin-bottom: 5px;
+}
+.mail-tag{
+  border: 2px solid lightgray;
+  padding: 5px;
+  font-size: 15px;
+  color: gray;
+}

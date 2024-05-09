@@ -1,0 +1,12 @@
+.content{
+  font-size: 20px;
+  width: 250px;
+  font-weight: 500;
+  display: inline-block;
+  vertical-align: middle;
+}
+.yes-button,
+.no-button{
+  display: inline-block;
+  vertical-align: middle;
+}

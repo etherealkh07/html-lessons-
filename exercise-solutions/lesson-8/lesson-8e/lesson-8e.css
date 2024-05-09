@@ -1,0 +1,49 @@
+
+.title{
+font-size: 30px;
+font-weight: 500;
+font-family: Roboto;
+margin-bottom: 0;
+}
+.pickup{
+margin-top: 20px;
+color: gray;
+border: none;
+background-color: rgb(240, 238, 238);
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 15px;
+padding-right: 100px;
+font-family: roboto;
+font-weight: 500;
+display: block;
+margin-bottom: 0;
+}
+.destination{
+margin-top: 20px;
+color: gray;
+border: none;
+background-color: rgb(240, 238, 238);
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 15px;
+padding-right: 100px;
+font-family: roboto;
+font-weight: 500;
+margin-top: 5px;
+margin-bottom: 30px;
+}
+.request-button{
+color: white;
+background-color: black;
+padding: 15px;
+border: none;
+margin-right: 15px;
+}
+.schedule-button{
+background-color: whitesmoke;
+color: black;
+padding: 15px;
+border: none;
+margin-right: 15px;
+}
